@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "Home";
+}
+@section Scripts{
+    <script src="~/Scripts/vue-the-mask.js"></script>
+    <script src="~/Scripts/vee-validate.js"></script>
+    <script src="~/Scripts/axios.js"></script>
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/home.css" rel="stylesheet" />
+    <title>Cadastro de Pessoa</title>
+</head>
+
+<body>
+    <div id="menu">
+        <div id="menu-items">
+            <div id="formulario-paragrafo" class="menu-item">
+                <a href="@Url.Action("Cadastrar", "Pessoa")" class="elements">Formulário </a>
+            </div>
+            <div id="cadastro-paragrafo" class="menu-item">
+                <a href="@Url.Action("Listar", "Pessoa")" class="elements">Cadastros </a>
+            </div>
+        </div>
+        <div id="menu-background-pattern"></div>
+        <div id="menu-background-image"></div>
+    </div>
+</body>
+</html>
+<script src="~/Scripts/home.js"></script>

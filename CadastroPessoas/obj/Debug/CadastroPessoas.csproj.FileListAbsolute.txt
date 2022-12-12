@@ -1,0 +1,634 @@
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll.config
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.pdb
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe.config
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.rsp
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe.config
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.rsp
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.AppContext.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Console.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Http.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.ValueTuple.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe.config
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.rsp
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\WebGrease.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.pdb
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CopyComplete
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\EntityFramework.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.dll
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\EntityFramework.xml
+C:\Users\ankechii\source\repos\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.pdb
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.rsp
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.rsp
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.AppContext.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Console.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Http.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.ValueTuple.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.rsp
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\WebGrease.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.pdb
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CopyComplete
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll.config
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.pdb
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe.config
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.rsp
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe.config
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.rsp
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.AppContext.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Console.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Globalization.Calendars.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Http.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Sockets.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe.config
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.rsp
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\BCrypt.Net-Next.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Buffers.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Memory.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Numerics.Vectors.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\WebGrease.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\BCrypt.Net-Next.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Buffers.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Memory.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Numerics.Vectors.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.pdb
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Helpers.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Mvc.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Optimization.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Razor.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CopyComplete
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\CadastroPessoas\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\CadastroPessoas.pdb
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\csc.rsp
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\csi.rsp
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.AppContext.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Console.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Http.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.ValueTuple.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\vbc.rsp
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\BCrypt.Net-Next.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\EntityFramework.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Buffers.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Memory.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Numerics.Vectors.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\WebGrease.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\BCrypt.Net-Next.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\EntityFramework.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\EntityFramework.SqlServer.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Buffers.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Memory.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Numerics.Vectors.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Helpers.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Mvc.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Optimization.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Razor.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.WebPages.Razor.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\Newtonsoft.Json.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\Antlr3.Runtime.pdb
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Net.Http.Formatting.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\System.Web.Http.WebHost.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CopyComplete
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.dll
+C:\Users\anderson.hoegen\Desktop\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\obj\Debug\CadastroPessoas.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\CadastroPessoas.dll.config
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\CadastroPessoas.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\CadastroPessoas.pdb
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\csc.exe
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\csc.exe.config
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\csc.rsp
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\csi.exe
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\csi.exe.config
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\csi.rsp
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.AppContext.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Collections.Immutable.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Console.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Globalization.Calendars.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.IO.Compression.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.IO.FileSystem.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Net.Http.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Net.Sockets.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.ValueTuple.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Xml.XPath.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\vbc.exe
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\vbc.exe.config
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\vbc.rsp
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\VBCSCompiler.exe
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\roslyn\VBCSCompiler.exe.config
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\Antlr3.Runtime.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\BCrypt.Net-Next.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\EntityFramework.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\EntityFramework.SqlServer.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\Microsoft.Web.Infrastructure.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\Newtonsoft.Json.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Buffers.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Memory.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Net.Http.Formatting.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Numerics.Vectors.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Helpers.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Http.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Http.WebHost.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Mvc.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Optimization.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Razor.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.WebPages.Deployment.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.WebPages.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.WebPages.Razor.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\WebGrease.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\BCrypt.Net-Next.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\EntityFramework.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\EntityFramework.SqlServer.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Buffers.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Memory.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Numerics.Vectors.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Helpers.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Mvc.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Optimization.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Razor.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.WebPages.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.WebPages.Deployment.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.WebPages.Razor.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\Newtonsoft.Json.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\Antlr3.Runtime.pdb
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Net.Http.Formatting.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Http.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\System.Web.Http.WebHost.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.Razor.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.Http.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Microsoft Visual Studio\Projetos\P.I. Cadastro\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CopyComplete
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\CadastroPessoas.dll.config
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\CadastroPessoas.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\CadastroPessoas.pdb
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\csc.exe
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\csc.exe.config
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\csc.rsp
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\csi.exe
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\csi.exe.config
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\csi.rsp
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.AppContext.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Console.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Globalization.Calendars.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Net.Http.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Net.Sockets.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\vbc.exe
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\vbc.exe.config
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\vbc.rsp
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\Antlr3.Runtime.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\BCrypt.Net-Next.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\EntityFramework.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\Newtonsoft.Json.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Buffers.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Memory.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Net.Http.Formatting.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Numerics.Vectors.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Helpers.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Http.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Http.WebHost.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Mvc.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Optimization.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Razor.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.WebPages.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\WebGrease.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\BCrypt.Net-Next.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\EntityFramework.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Buffers.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Memory.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Numerics.Vectors.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Helpers.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Mvc.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Optimization.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Razor.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.WebPages.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\Newtonsoft.Json.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\Antlr3.Runtime.pdb
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Net.Http.Formatting.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Http.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\System.Web.Http.WebHost.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.Helpers.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.Mvc.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.Optimization.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.Razor.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.WebPages.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.Http.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CopyComplete
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\obj\Debug\CadastroPessoas.dll
+D:\OneDrive\Área de Trabalho\PI\CadastroPessoav2\CadastroPessoas\obj\Debug\CadastroPessoas.pdb

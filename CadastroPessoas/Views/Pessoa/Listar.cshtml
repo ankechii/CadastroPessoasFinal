@@ -1,0 +1,36 @@
+﻿@using CadastroPessoas.ViewModels;
+
+@model IEnumerable<PessoaViewModel>
+
+@{
+    ViewBag.Title = "Listar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Listagem</h2>
+
+
+<br />
+<table class="table">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Data Nascimento</th>
+            <th scope="col">Email</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach (PessoaViewModel item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.DataNascimentoFormatada</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div style="position:sticky">
+<a href="/Pessoa/Cadastrar" class="btn btn-primary">Cadastrar Nova Pessoa</a>
+<a href="/Pessoa/Home" class="btn btn-primary">Voltar</a>
+ </div>
+<br />
